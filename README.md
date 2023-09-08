@@ -1,4 +1,4 @@
-# Go-Mitm
+# Go-Mitm-Example
 
 A Go application that demonstrates how to use `go-mitmproxy` to intercept, modify, and display HTTP requests and responses.
 
